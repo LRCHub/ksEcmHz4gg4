@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "誰もいない森の奥で一本の木が倒れたら音はするか?",
+  "base_artist": "≠ME",
+  "createdAt": "2025-12-22T13:39:02.689466Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "誰もいない森の奥で一本の木が倒れたら音はするか?",
+      "artist": "≠ME",
+      "has_synced": true,
+      "path": "select/01_誰もいない森の奥で一本の木が倒れたら音はするか_≠ME.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "誰もいない森の奥で一本の木が倒れたら音はするか？",
+      "artist": "Not Equal Me",
+      "has_synced": true,
+      "path": "select/02_誰もいない森の奥で一本の木が倒れたら音はするか_Not_Equal_Me.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "誰もいない森の奥で一本の木が倒れたら音はするか?",
+      "artist": "≠ME, 千葉\"naotyu-\"直樹, 指原莉乃",
+      "has_synced": true,
+      "path": "select/03_誰もいない森の奥で一本の木が倒れたら音はするか_≠ME,_千葉_naotyu-_直樹,_指原莉乃.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "誰もいない森の奥で一本の木が倒れたら音はするか?",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_誰もいない森の奥で一本の木が倒れたら音はするか_≠ME.txt"
+    }
+  ]
+}
